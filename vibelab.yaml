@@ -1,0 +1,40 @@
+app:
+  id: "7706470048193478707"
+  name: "冰晶城堡水晶球"
+  slogan: "在极光雪尘中唤醒会旋转的冰晶城堡"
+  description: |
+    冰晶城堡水晶球是一款 PICO Spatial 体积空间体验。应用将高精度冰晶城堡模型置于通透的水晶球中，以极光光环、动态飘雪和缓慢旋转构成沉浸式桌面摆件，让用户在空间环境里近距离欣赏冰雪建筑的细节与氛围。
+
+    - 立体呈现冰晶城堡水晶球与环绕光效
+    - 持续生成动态雪花，营造静谧冰境
+    - 支持一键切换静谧飘雪与极光暴风雪状态
+    - 模型与光环以不同速度旋转，展示多角度细节
+
+    启动应用后即可在体积窗口中观看水晶球。点击底部按钮可唤醒极光暴风雪，再次点击可恢复静谧飘雪。适合作为空间桌面观赏、冰雪主题展示及轻量放松体验。
+  tags:
+    - "其他"
+  category: "application"
+  icon: "assets/icon.jpg"
+  landscape: "assets/landscape.png"
+  detail_images:
+    - "assets/detail-1.png"
+    - "assets/detail-2.png"
+    - "assets/detail-3.png"
+    - "assets/detail-4.png"
+    - "assets/detail-5.png"
+  videos: []
+version:
+  name: "1.0"
+  notes: |
+    - 新增冰晶城堡水晶球体积空间展示
+    - 新增动态飘雪、旋转展示与极光光环效果
+    - 新增静谧飘雪和极光暴风雪切换功能
+build:
+  repo_url: "https://github.com/bingxueyeah/ice-crystal-snow-globe"
+  repo_visibility: "public"
+  tech_stack: "android_spatial"
+  ai_tool: "Trae CLI"
+  ai_model: "GPT-5.4"
+  features:
+    - "none"
+  teammates: []
